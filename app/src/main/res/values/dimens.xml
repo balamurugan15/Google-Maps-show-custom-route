@@ -1,0 +1,24 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <item name="body_1_spacing" format="float" type="dimen">1.22448979592</item>
+    <item name="h3_spacing" format="float" type="dimen">1.14285714286</item>
+
+
+    <dimen name="padding_normal">16dp</dimen>
+    <dimen name="my_schedule_item_height">136dp</dimen>
+    <dimen name="my_schedule_item_height_break">80dp</dimen>
+    <dimen name="my_schedule_item_height_past">60dp</dimen>
+    <dimen name="my_schedule_time_column_width">100dp</dimen>
+    <dimen name="my_schedule_title_strip_padding">8dp</dimen>
+    <dimen name="my_schedule_page_margin">@dimen/padding_normal</dimen>
+    <dimen name="my_schedule_icon_size">24dp</dimen>
+    <dimen name="my_schedule_icon_horizontal_padding">24dp
+    </dimen> <!-- center 24dp in @keyline_2 -->
+    <dimen name="widget_schedule_time_width">72dp</dimen>
+    <dimen name="widget_schedule_header_height">40dp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+</resources>
